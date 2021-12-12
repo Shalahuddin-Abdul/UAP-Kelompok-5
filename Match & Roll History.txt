@@ -1,0 +1,14 @@
+---Match Start---
+Hash P2 #535-> Teemo
+Hash P2 #0-> Garen
+Player 2 Wins
+---Match End---
+
+
+---Match Start---
+Hash P2 #591-> A-Sol
+Hash P2 #0-> Nautilus
+Player 1 Wins
+---Match End---
+
+
